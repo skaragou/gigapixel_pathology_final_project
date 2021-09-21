@@ -1,4 +1,5 @@
-**Gigapixel Pathology Final Project**
+## Gigapixel Pathology Final Project
+
 This Applied Deep Learning project attempts to replicate the [*Detecting Cancer Metastases on Gigapixel Pathology Images*](https://arxiv.org/abs/1703.02442) paper.  
 
 <img src="img/model.png"/>
